@@ -1,5 +1,5 @@
 The Happy Prince
-by Oscar Wilde
+by Oscar W.
 The Happy Prince and Other Tales is Oscar Wilde's collection of children's stories (1888). That collection of children's stories also includes: The Selfish Giant, The Nightingale and the Rose, The Devoted Friend, and The Remarkable Rocket.
 The Happy Prince
 High above the city, on a tall column, stood the statue of the Happy Prince. He was gilded all over with thin leaves of fine gold, for eyes he had two bright sapphires, and a large red ruby glowed on his sword-hilt.
@@ -171,4 +171,5 @@ Then they melted the statue in a furnace, and the Mayor held a meeting of the Co
 "Bring me the two most precious things in the city," said God to one of His Angels; and the Angel brought Him the leaden heart and the dead bird.
 
 "You have rightly chosen," said God, "for in my garden of Paradise this little bird shall sing for evermore, and in my city of gold the Happy Prince shall praise me."
+
 
